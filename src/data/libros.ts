@@ -1,0 +1,1 @@
+export const libros = ["Cálculo Integral", "Cálculo Diferencial", "Cálculo Vectorial", "Álgebra"];
